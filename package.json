@@ -5,6 +5,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
+    "eslint": "^5.5.0",
     "express": "^4.16.3",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
@@ -23,7 +24,6 @@
   },
   "devDependencies": {
     "concurrently": "^4.0.1",
-    "eslint": "^5.5.0",
     "nodemon": "^1.18.4",
     "prettier": "^1.14.2"
   },
