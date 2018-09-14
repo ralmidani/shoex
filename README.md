@@ -1,6 +1,6 @@
 This project represents a shoe inventory system built with React, React-Bootstrap, Node, Express, Sequelize, and Socket.io.
 
-Live demo: coming soon
+Live demo: https://shoex.herokuapp.com/
 
 ### Running the project locally
 
